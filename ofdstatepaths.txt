@@ -1,7 +1,2 @@
-﻿C:\Users\admin\AppData\Local\Temp\Frontol5\OfdState
+﻿C:\Users\User\AppData\Local\Temp\Frontol6\OfdState
 C:\Users\User\AppData\Local\Temp\Frontol5\OfdState
-C:\Users\1\AppData\Local\Temp\Frontol5\OfdState
-c:\Users\Пользователь\AppData\Local\Temp\Frontol5\OfdState
-C:\Documents and Settings\Administrator\Local Settings\Temp\Frontol5\OfdState
-C:\Documents and Settings\admin\Local Settings\Temp\Frontol5\OfdState
-C:\Documents and Settings\User\Local Settings\Temp\Frontol5\OfdState

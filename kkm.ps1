@@ -1,4 +1,5 @@
-foreach($linepath in Get-Content D:\Zabbix\ofdstatepaths.txt)
+$PSScriptRoot = Split-Path $MyInvocation.MyCommand.Path -Parent
+foreach($linepath in Get-Content $PSScriptRoot\ofdstatepaths.txt)
 {
 	if(Test-Path -Path $linepath)
 	{
